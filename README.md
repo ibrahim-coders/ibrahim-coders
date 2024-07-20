@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, This is Ibrahim👋<br><br>👩‍💻 About Me<br>I'm a Front-End Web Developer working in Dhaka, Bangladesh<br><br>-🔭 I’m currently working on Front-end development projects.<br>-🌱 I’m currently learning React and next.js.<br>-👯 I’m looking to collaborate on open-source projects related to front-end development.<br>-💬 Ask me about HTML, CSS, JavaScript, and Angular.<br>-📫 How to reach me: Feel free to connect with me on LinkedIn.</h2>
+<h2 align="left">Hello! I'm Ibrahim 👋<br><br>About Me<br>I'm a Junior Web Developer, MERN Stack Developer, and Expert Frontend & JavaScript Professional with a specialization in React.js. Based in Dhaka, Bangladesh, I'm passionate about building innovative web applications. 👩‍💻<br><br>What I'm Up To<br>🔭 Currently working on exciting front-end development projects.<br>🌱 Learning and improving my skills in React and Next.js.<br>👯 Looking to collaborate on open-source projects related to front-end development.<br>Ask Me About<br>💬 HTML, CSS, JavaScript, and Angular - I'm happy to help with any questions!<br>Get in Touch<br>📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-programming/).<br>You can customize this to fit your style, but this should give you a good starting point! 😊</h2>
 
 ###
 
@@ -40,8 +40,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/programming-ibrahim/programming-ibrahim/output/snake.svg" alt="Snake animation" />
 
