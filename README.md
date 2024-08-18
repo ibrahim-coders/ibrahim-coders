@@ -1,4 +1,7 @@
-<h2 align="left">Hello! I'm Ibrahim 👋<br><br>About Me<br>I'm a Junior Web Developer, MERN Stack Developer, and Expert Frontend & JavaScript Professional with a specialization in React.js. Based in Dhaka, Bangladesh, I'm passionate about building innovative web applications. 👩‍💻<br><br>What I'm Up To<br>🔭 Currently working on exciting front-end development projects.<br>🌱 Learning and improving my skills in React and Next.js.<br>👯 Looking to collaborate on open-source projects related to front-end development.<br>Ask Me About<br>💬 HTML, CSS, JavaScript, and Angular - I'm happy to help with any questions!<br>Get in Touch<br>📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-programming/).<br>You can customize this to fit your style, but this should give you a good starting point! 😊</h2>
+<h2 align="left">Hello! I'm Ibrahim 👋<br><br>About Me<br>I'm a Junior Web Developer, MERN Stack Developer, and Expert Frontend & JavaScript Professional with a specialization in React.js. Based in Dhaka, Bangladesh, I'm passionate about building innovative web applications. 👩‍💻<br><br>What I'm Up To<br>🔭 Currently working on exciting front-end development projects.<br>🌱 Learning and improving my skills in React and Next.js.<br>👯 Looking to collaborate on open-source projects related to front-end development.<br>Ask Me About<br>💬 HTML, CSS, JavaScript, and Express JS - I'm happy to help with any questions!<br>Get in Touch<br>📫 Feel free to connect with me on .<br>You can customize this to fit your style, but this should give you a good starting point! 😊</h2>
+  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-frontend-developer/) for updates and networking!
+
 
 ###
 
@@ -40,7 +43,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/programming-ibrahim/programming-ibrahim/output/snake.svg" alt="Snake animation" />
 
 ###
