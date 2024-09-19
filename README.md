@@ -1,13 +1,13 @@
 <h2 align="left">Hello! I'm Ibrahim 👋<br><br>About Me<br>I'm a Junior Web Developer, MERN Stack Developer, and Expert Frontend & JavaScript Professional with a specialization in React.js. Based in Dhaka, Bangladesh, I'm passionate about building innovative web applications. 👩‍💻<br><br>What I'm Up To<br>🔭 Currently working on exciting front-end development projects.<br>🌱 Learning and improving my skills in React and Next.js.<br>👯 Looking to collaborate on open-source projects related to front-end development.<br>Ask Me About<br>💬 HTML, CSS, JavaScript, and Express JS - I'm happy to help with any questions!<br>Get in Touch<br>📫 Feel free to connect with me on .<br>You can customize this to fit your style, but this should give you a good starting point! 😊</h2>
   
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-frontend-developer/) for updates and networking!
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-coders/) for updates and networking!
 
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibr-a-him&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ibr-a-him&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-coders&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-coders&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
