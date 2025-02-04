@@ -1,3 +1,68 @@
-<h2 align="left">Hello! I'm Ibrahim 👋</h2> <h3 align="left">About Me</h3> <p align="left"> I'm a Junior Web Developer, MERN Stack Developer, and JavaScript Professional specializing in React.js. I'm passionate about building innovative web applications. 👩‍💻 </p> <h3 align="left">What I'm Up To</h3> <ul align="left"> <li>🔭 Currently working on exciting front-end development projects.</li> <li>🌱 Learning and improving my skills in React and Next.js.</li> <li>👯 Looking to collaborate on open-source projects related to front-end development.</li> </ul> <h3 align="left">Ask Me About</h3> <p align="left">💬 HTML, CSS,tailwindcss,Bootstrap, JavaScript, React.js, and Express JS, Node.js,MongoDB - I'm happy to help with any questions!</p> <h3 align="left">Get in Touch</h3> <p align="left">📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/ibrahim-coders/">LinkedIn</a> for updates and networking!</p>
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-coders&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-coders&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" /> </div>
+<h2 align="left">Hello! I'm Ibrahim 👋</h2>
+
+<p align="left">
+  <img src="https://i.pinimg.com/736x/52/e2/02/52e202397f8136ea4ac3a7b0e4713f21.jpg" width="500" height="250" />
+</p>
+
+---
+
+### 📌 About Me
+
+I’m a passionate **Frontend Developer** with strong expertise in **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, and Next.js**.  
+I also have hands-on experience with **MongoDB and Express.js**, and I’m actively working on enhancing my backend skills to become a **Full-Stack MERN Developer**.
+
+Over the past year, I’ve built several **dynamic and interactive** websites using React.js, focusing on creating **seamless user experiences**.  
+I’m currently exploring **payment gateway integration** and am committed to writing **clean, maintainable code**.
+
+🚀 **My Goal:** To continue growing as a developer, contribute to meaningful projects, and deliver **high-quality, user-centric solutions**.
+
+---
+
+### 🚀 What I'm Up To
+- 🌱 I’m currently learning **JavaScript**.
+- 👯 I’m looking to collaborate on **GitHub**.
+- 💬 Ask me about **Web Development**.
+- 📫 How to reach me: **ibrahim.webdev10@gmail.com**.
+
+---
+
+### 📬 Get in Touch
+📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ibrahim-coders/)** for updates and networking!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-coders&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-coders&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🛠 I Code With
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+</div>
