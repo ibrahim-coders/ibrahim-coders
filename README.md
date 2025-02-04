@@ -1,7 +1,7 @@
 <h2 align="left">Hello! I'm Ibrahim 👋</h2>
 
 <p align="left">
-  <img src="https://i.pinimg.com/736x/52/e2/02/52e202397f8136ea4ac3a7b0e4713f21.jpg" width="500" height="250" />
+  <img src="https://static.vecteezy.com/system/resources/previews/013/104/767/non_2x/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner-vector.jpg" width="100%" height="250" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ I’m currently exploring **payment gateway integration** and am committed to wr
 ---
 
 ### 🚀 What I'm Up To
-- 🌱 I’m currently learning **JavaScript**.
+- 🌱 I’m currently learning **Advanced JavaScript & Backend Development**.
 - 👯 I’m looking to collaborate on **GitHub**.
 - 💬 Ask me about **Web Development**.
 - 📫 How to reach me: **ibrahim.webdev10@gmail.com**.
