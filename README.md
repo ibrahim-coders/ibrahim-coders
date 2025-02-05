@@ -1,4 +1,4 @@
- <img src="https://static.vecteezy.com/system/resources/previews/013/104/767/non_2x/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner-vector.jpg" width="100%" height="250" />
+ <img src="https://i.ibb.co/hxsKhvdn/github-header-image.png" width="100%" height="250" />
 
 <h1> Hey 👋, I'm Ibrahim!</h1>
 
