@@ -1,4 +1,4 @@
- <img src="https://i.ibb.co/ZpTPCjsP/github-header-image-1.png" width="100%" height="250" />
+ <img src="https://i.ibb.co/4wVHwmBz/Add-a-heading.png" width="100%" height="250" />
 
 <h1> Hey 👋, I'm Ibrahim!</h1>
 
