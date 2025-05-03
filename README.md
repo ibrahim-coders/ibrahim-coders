@@ -23,7 +23,7 @@ I’m currently exploring **payment gateway integration** and am committed to wr
 - 🌱 &nbsp; I’m currently learning **Advanced JavaScript & Backend Development**.
 - 💬 &nbsp; Ask me anything tech-related, especially about **Web Development**—I'm happy to help!
 - 📧 &nbsp; Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ibrahim-coders/)** for updates and networking!
-- 📝 &nbsp; Checkout my **[Resume](#)** (Update this with a real link)
+- 📝 &nbsp; Checkout my **[Resume](https://drive.google.com/file/d/1PAmnL4MjQ_OqeXQCEqaKeErnAyGYGClH/view?usp=sharing)** 
 
 ---
 
