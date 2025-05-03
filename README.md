@@ -11,9 +11,10 @@ I’m currently exploring **payment gateway integration** and am committed to wr
 
 🚀 **My Goal:** To continue growing as a developer, contribute to meaningful projects, and deliver **high-quality, user-centric solutions**.
 
----
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<p align="center">
+  <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/gif.gif" alt="Banner" style="max-width: 100%; height: auto;">
+</p>
   
 ### 🤞 More About Me:
 
