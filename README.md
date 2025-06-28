@@ -15,6 +15,7 @@ MongoDB & Express.js
 I'm actively enhancing my backend skills to become a Full-Stack MERN Developer.
 
 💻 Over the past year, I’ve built several dynamic, responsive, and user-friendly web applications using React.js, always with a strong focus on clean code, performance, and user experience.
+
 My Goal: To grow as a developer, collaborate on impactful projects, and deliver high-quality, user-centric digital solutions that drive real value.
 
 <p align="center">
