@@ -2,15 +2,20 @@
 
 <h1> Hey 👋, I'm Ibrahim!</h1>
 
+<h3>Fast learner | Building real-world projects</h3>
 <br/>
-I’m a passionate **Frontend Developer** with strong expertise in **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, and Next.js**.  
-I also have hands-on experience with **MongoDB and Express.js**, and I’m actively working on enhancing my backend skills to become a **Full-Stack MERN Developer**.
+I'm a passionate Frontend-Focused MERN Stack Developer with solid expertise in:
 
-Over the past year, I’ve built several **dynamic and interactive** websites using React.js, focusing on creating **seamless user experiences**.  
-I’m currently exploring **payment gateway integration** and am committed to writing **clean, maintainable code**.
+HTML, CSS, Tailwind CSS, Bootstrap
 
-🚀 **My Goal:** To continue growing as a developer, contribute to meaningful projects, and deliver **high-quality, user-centric solutions**.
+JavaScript, React.js, Next.js (with TypeScript)
 
+MongoDB & Express.js
+
+I'm actively enhancing my backend skills to become a Full-Stack MERN Developer.
+
+💻 Over the past year, I’ve built several dynamic, responsive, and user-friendly web applications using React.js, always with a strong focus on clean code, performance, and user experience.
+My Goal: To grow as a developer, collaborate on impactful projects, and deliver high-quality, user-centric digital solutions that drive real value.
 
 <p align="center">
   <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/gif.gif" alt="Banner" style="max-width: 100%; height: auto;">
@@ -20,10 +25,10 @@ I’m currently exploring **payment gateway integration** and am committed to wr
 
 - 🔝 &nbsp; I’m currently focused on **learning and improving my skills**.
 - 🤝 &nbsp; I’m looking to collaborate on **GitHub projects**.
-- 🌱 &nbsp; I’m currently learning **Advanced JavaScript & Backend Development**.
+- 🌱 &nbsp; Diving deep into  **Advanced JavaScript, TypeScript, and Backend Development (Node.js, Express.js, MongoDB)** 
 - 💬 &nbsp; Ask me anything tech-related, especially about **Web Development**—I'm happy to help!
 - 📧 &nbsp; Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ibrahim-coders/)** for updates and networking!
-- 📝 &nbsp; Checkout my **[Resume](https://drive.google.com/file/d/1PAmnL4MjQ_OqeXQCEqaKeErnAyGYGClH/view?usp=sharing)** 
+- 📝 &nbsp; Checkout my **[Resume](https://drive.google.com/file/d/14i3h2jE2WtUvDD2_7kDQeZDRRnGG5hJr/view?usp=sharing)** 
 
 ---
 
@@ -51,4 +56,4 @@ Want to collaborate or discuss a project? Feel free to reach out!
 
 📧 **Email:** [ibrahim.webdev10@gmail.com](mailto:ibrahim.webdev10@gmail.com)  
 💌 **LinkedIn:** [linkedin.com/in/ibrahim-coders](https://www.linkedin.com/in/ibrahim-coders/)  
-💻 **GitHub:** [github.com/ibrahim-coders](https://github.com/ibrahim-coders/)  
+
